@@ -22,7 +22,7 @@ languages/my.m3u
 #EXTINF:0,Catalan
 languages/ca.m3u
 #EXTINF:0,Chinese
-languages/zh.m3u
+languages/zh.m3u 
 #EXTINF:0,Croatian
 languages/hr.m3u
 #EXTINF:0,Czech
